@@ -1,0 +1,20 @@
+export const defaultTheme = {
+    disabledColor: '#E3DAF9',
+    primaryColor: '#6E41E2',
+    hoverColor: '#5835B0',
+    activeColor: '#472C8A',
+    whiteColor: '#FFFFFF',
+    whiteSColor: '#FFFFFFE0',
+    grayMColor: '#FAFAFA',
+    grayLColor:'#F1F1F1',
+    graySColor: '#D4D4D4',
+    grayColor: '#1111117A',
+    grayKColor: '#6B6B6B',
+    blackColor:  '#111',
+    redGirlColor: '#F9E3E3',
+    redBoyColor: '#F2CACA',
+    redColor: '#DB524E',
+    superRedColor: '#C7302B',
+    greenColor: '#27AE60',
+    blueColor: '#428BF9'
+}
