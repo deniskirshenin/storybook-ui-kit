@@ -1,4 +1,4 @@
-export const colors = {
+export const defaultTheme = {
     disabledColor: '#E3DAF9',
     primaryColor: '#6E41E2',
     hoverColor: '#5835B0',
